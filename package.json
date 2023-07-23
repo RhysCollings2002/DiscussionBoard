@@ -1,0 +1,27 @@
+{
+  "name": "DiscussionBoard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^3.5.2",
+    "react-router-dom": "^6.14.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RhysCollings2002/DiscussionBoard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RhysCollings2002/DiscussionBoard/issues"
+  },
+  "homepage": "https://github.com/RhysCollings2002/DiscussionBoard#readme"
+}
